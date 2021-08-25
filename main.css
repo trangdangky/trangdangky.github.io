@@ -1,0 +1,32 @@
+.dangky {
+    width: 400px;
+    height: 400px;
+    border: 5px solid darkblue;
+    border-radius: 15px;
+    text-align: center;
+}
+h2 {
+    color: gray;
+
+}
+input {
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+button {
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: lightgreen;
+    
+
+}
+h3{
+    color: gray;
+    font-size: 17px;
+    font-style: italic;
+}
